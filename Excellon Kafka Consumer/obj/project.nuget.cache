@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cfar+IxY3lxpzNMCXM5i7mJJkeYOqJ6PvC2P0w+TPdDe0pnJxdE7sjCQVZWqz6wKfMxuMVq5Fi/YrkyUocXVmA==",
+  "success": true,
+  "projectFilePath": "D:\\Practice Han\\Excellon Kafka Consumer\\Excellon Kafka Consumer\\Excellon Kafka Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\palashm\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
+    "C:\\Users\\palashm\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
+    "C:\\Users\\palashm\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\palashm\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
